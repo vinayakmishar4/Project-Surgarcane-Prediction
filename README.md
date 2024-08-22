@@ -22,4 +22,5 @@ Aggregates data by continent to identify regional patterns in sugarcane producti
 The analysis suggests that increasing land acreage can lead to higher production of sugarcane.
 # Yield Efficiency: 
 Countries with higher yield per hectare do not necessarily produce more sugarcane overall, indicating other factors might be influencing production.
-Continental Insights: Certain continents dominate in sugarcane production, with notable differences in land usage and production efficiency.
+#Continental Insights: 
+Certain continents dominate in sugarcane production, with notable differences in land usage and production efficiency.
