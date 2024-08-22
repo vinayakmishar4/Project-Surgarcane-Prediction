@@ -13,9 +13,13 @@ Cleaning and transforming the data for analysis.
 Visualizing key metrics such as production, acreage, and yield.
 Performing correlation analysis to identify relationships between variables.
 Analysis Focus
-# Country-Level Analysis: Examines sugarcane production and related metrics on a per-country basis.
-# Continent-Level Analysis: Aggregates data by continent to identify regional patterns in sugarcane production.
+# Country-Level Analysis: 
+Examines sugarcane production and related metrics on a per-country basis.
+# Continent-Level Analysis: 
+Aggregates data by continent to identify regional patterns in sugarcane production.
 # Results
-Production vs. Land: The analysis suggests that increasing land acreage can lead to higher production of sugarcane.
-Yield Efficiency: Countries with higher yield per hectare do not necessarily produce more sugarcane overall, indicating other factors might be influencing production.
+# Production vs. Land: 
+The analysis suggests that increasing land acreage can lead to higher production of sugarcane.
+# Yield Efficiency: 
+Countries with higher yield per hectare do not necessarily produce more sugarcane overall, indicating other factors might be influencing production.
 Continental Insights: Certain continents dominate in sugarcane production, with notable differences in land usage and production efficiency.
