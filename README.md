@@ -5,11 +5,16 @@ Project Overview
    # Source
    The dataset used in this project is titled "List of Countries by Sugarcane Production". It contains various metrics related to sugarcane production for different countries, including:
 
-  # Country: The name of the country.
-  # Production (Tons): The total sugarcane production in tons.
-  # Production per Person (Kg): The average sugarcane production per person in kilograms.
-  # Acreage (Hectare): The total land area used for sugarcane production in hectares.
-  # Yield (Kg / Hectare): The yield of sugarcane per hectare of land.
+  # Country: 
+  The name of the country.
+  # Production (Tons):
+  The total sugarcane production in tons.
+  # Production per Person (Kg):
+  The average sugarcane production per person in kilograms.
+  # Acreage (Hectare):
+  The total land area used for sugarcane production in hectares.
+  # Yield (Kg / Hectare):
+  The yield of sugarcane per hectare of land.
 # Data Cleaning
 The dataset is cleaned to handle missing values, and data types are adjusted to ensure accurate analysis. Some columns are renamed for better readability and consistency.
 
